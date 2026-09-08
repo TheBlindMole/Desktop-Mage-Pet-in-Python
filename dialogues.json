@@ -1,0 +1,72 @@
+{
+  "attack": [
+    {
+      "english": "Hold still! It’s way harder to hit you when you move!",
+      "portuguese": "Em desenvolvimento"
+    },
+    {
+      "english": "Congratulations, you are officially a target.",
+      "portuguese": "Em desenvolvimento"
+    }
+  ],
+  "die": [
+    {
+      "english": "Lag... it was definitely lag.",
+      "portuguese": "Em desenvolvimento"
+    },
+    {
+      "english": "Tell my team... it was their fault...",
+      "portuguese": "Em desenvolvimento"
+    }
+  ],
+  "idle": [
+    {
+      "english": "Are we playing a game or waiting for League of Legends 2?",
+      "portuguese": "Em desenvolvimento"
+    },
+    {
+      "english": "I’m not slacking, I’m positioning myself... statically.",
+      "portuguese": "Em desenvolvimento"
+    }
+  ],
+  "jump": [
+    {
+      "english": "Look mom, no gravity!",
+      "portuguese": "Em desenvolvimento"
+    },
+    {
+      "english": "Parkour! Except with more armor and violence.",
+      "portuguese": "Em desenvolvimento"
+    }
+  ],
+  "magic_circle": [
+    {
+      "english": "Step into the circle. Don't worry, the sparkles mean it's safe.",
+      "portuguese": "Em desenvolvimento"
+    },
+    {
+      "english": "Going back to buy items because my teammates clearly won't carry me.",
+      "portuguese": "Em desenvolvimento"
+    }
+  ],
+  "run": [
+    {
+      "english": "Tactical retreat! Just kidding, I am absolutely terrified!",
+      "portuguese": "Em desenvolvimento"
+    },
+    {
+      "english": "Can't talk, running for my life and my KDA!",
+      "portuguese": "Em desenvolvimento"
+    }
+  ],
+  "walk": [
+    {
+      "english": "Walking across the entire map because I missed my teleport. Classic.",
+      "portuguese": "Em desenvolvimento"
+    },
+    {
+      "english": "Just taking a nice, peaceful stroll in a highly dangerous warzone.",
+      "portuguese": "Em desenvolvimento"
+    }
+  ]
+}
